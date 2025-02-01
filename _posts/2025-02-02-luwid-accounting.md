@@ -15,6 +15,3 @@ Masukan dan umpan balik dari pengguna adalah pendorong utama pengembangan kami. 
 ➡️ Cobalah sekarang dan jadilah bagian dari perjalanan ini:
 🌐 Website: www.luwidaccounting.biz.id
 📱 Android: s.id/luwidaccounting
-
-
-![Unsplash image 9]({{ site.url }}{{ site.baseurl }}/assets/images/2025-02-02-luwid-accounting/la1.jpg)
