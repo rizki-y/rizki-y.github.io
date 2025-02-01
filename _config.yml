@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "RY"
 title_separator          : "-"
 subtitle                 : Berbagi Catatan
-name                     : "Rizki Yuwanda"
+name                     : # "Rizki Yuwanda"
 description              : "Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
