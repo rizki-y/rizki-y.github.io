@@ -1,7 +1,7 @@
 ---
 title: "Luwid Accounting: Solusi Akuntansi yang Fleksibel dan Terus Berkembang Bersama Anda"
 categories:
-  - Luwid Accounting
+  - Post Formats
 tags:
   - aplikasi akuntansi
   - solusi akuntansi
