@@ -126,7 +126,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://luwid.biz.id"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rizkiyuwanda/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
