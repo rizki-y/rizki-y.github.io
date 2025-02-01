@@ -139,7 +139,7 @@ author:
       url: "https://www.instagram.com/rizkiyuwanda"
 
 # Site Footer
-footer: false
+footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
