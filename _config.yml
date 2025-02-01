@@ -140,7 +140,6 @@ author:
 
 # Site Footer
 footer:
-  enabled: false
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
