@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "RY"
 title_separator          : "-"
-subtitle                 : "Berbagi Catatan"
+subtitle                 : "Share Notes"
 name                     : "Rizki Yuwanda"
 description              : "Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Rizki Yuwanda"
   avatar           : "/assets/images/ry.jpg"
-  bio              : "People in Banjarmasin City"
+  bio              : "Ordinary People in Banjarmasin City"
   location         : "Indonesia"
   email            :
   links:
