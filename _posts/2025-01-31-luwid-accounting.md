@@ -17,8 +17,11 @@ Masukan dan umpan balik dari pengguna adalah pendorong utama pengembangan kami. 
 🌐 [Kunjungi Website](https://luwidaccounting.biz.id){:target="_blank"} 
 📱 [Unduh dari Google Play](https://s.id/luwidaccounting){:target="_blank"}
 
-```html
-{% raw %}<img src="https://rizki-y.github.io/assets/images/2025-01-31-luwid-accounting/la1.jpg" alt="">{% endraw %}
-```
 
-![Unsplash image 9](https://rizki-y.github.io/assets/images/2025-01-31-luwid-accounting/la2.jpg)
+<figure class="third">
+	<img src="/images/2025-01-31-luwid-accounting/la1.jpg">
+	<img src="/images/2025-01-31-luwid-accounting/la2.jpg">
+	<img src="/images/2025-01-31-luwid-accounting/la3.jpg">
+	<figcaption>Screenshot Luwid Accounting</figcaption>
+</figure>
+
