@@ -173,17 +173,7 @@ Cek apakah cron aktif:
 crontab -l
 ```
 
-## 8. Tes Cronjob (Jadwalkan dalam 2 Menit)
-Misalnya sekarang 00:27:00 WITA, set cronjob untuk 00:30:00:
-```sh
-30 0 * * * ~/backup_mydb.sh >> ~/backup.log 2>&1
-```
-Cek log untuk memastikan cron berjalan:
-```sh
-tail -f ~/backup.log
-```
-
-## 9. Verifikasi File Backup di Google Drive
+## 8. Verifikasi File Backup di Google Drive
 Pastikan file muncul dengan:
 ```sh
 rclone lsf my_remote:"Database Backup"
