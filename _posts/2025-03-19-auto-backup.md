@@ -187,5 +187,5 @@ Jika ada error, cek:
 cat ~/backup.log
 ```
 
-Selamat mencoba! 🚀
+Jika ada yang tidak sesuai mohon dikoreksi, selamat mencoba! 🚀
 
