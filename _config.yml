@@ -137,6 +137,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rizki-y"
+    - label: "Google Play"
+      icon: "fab fa-fw fa-google-play"
+      url: "https://play.google.com/store/apps/dev?id=YOUR_DEVELOPER_ID"
 
 # Site Footer
 footer:
