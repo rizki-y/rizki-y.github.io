@@ -19,6 +19,6 @@ Masukan dan umpan balik dari pengguna adalah pendorong utama pengembangan kami. 
 
 
 <figure>
-	<img src="https://rizki-y.github.io/assets/images/2025-04-28-luwid-laundry/ll.jpg">
+	<img src="https://rizki-y.github.io/assets/images/2025-04-28-luwid-laundry/ll.png">
 </figure>
 
