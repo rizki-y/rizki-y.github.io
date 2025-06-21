@@ -14,7 +14,7 @@ Masukan dan umpan balik dari pengguna adalah pendorong utama pengembangan kami. 
 
 ➡️ Cobalah sekarang dan jadilah bagian dari perjalanan ini:
 
-🌐 [Kunjungi Website](https://luwidaccounting.biz.id){:target="_blank"} 
+🌐 [Kunjungi Website](https://accounting.luwid.biz.id){:target="_blank"} 
 📱 [Unduh dari Google Play](https://s.id/luwidaccounting){:target="_blank"}
 
 
