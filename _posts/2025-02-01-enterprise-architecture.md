@@ -25,6 +25,5 @@ Sebanyak 24 ribu aplikasi milik pemerintah dinilai boros anggaran dan tidak teri
 
 <figure>
 	<img src="https://rizki-y.github.io/assets/images/2025-02-01-enterprise-architecture/ea.jpg">
-	<figcaption style="text-align: center;">Arsitektur SPBE</figcaption>
 </figure>
 

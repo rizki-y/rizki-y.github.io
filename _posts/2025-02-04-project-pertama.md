@@ -21,9 +21,8 @@ Buat saya, pengalaman ini mengajarkan satu hal penting: kita nggak perlu menungg
 
 Bagaimana dengan project pertama kalian? Apa momen berharga yang mengubah arah karier kalian?
 
-<figure class="two">
+<figure class="second">
 	<img src="https://rizki-y.github.io/assets/images/2025-02-04-project-pertama/pp1.jpg">
 	<img src="https://rizki-y.github.io/assets/images/2025-02-04-project-pertama/pp2.jpg">
-	<figcaption style="text-align: center;">Project Pertama</figcaption>
 </figure>
 

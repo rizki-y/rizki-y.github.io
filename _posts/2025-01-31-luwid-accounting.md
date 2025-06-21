@@ -22,6 +22,5 @@ Masukan dan umpan balik dari pengguna adalah pendorong utama pengembangan kami. 
 	<img src="https://rizki-y.github.io/assets/images/2025-01-31-luwid-accounting/la1.jpg">
 	<img src="https://rizki-y.github.io/assets/images/2025-01-31-luwid-accounting/la2.jpg">
 	<img src="https://rizki-y.github.io/assets/images/2025-01-31-luwid-accounting/la3.jpg">
-	<figcaption>Screenshot Luwid Accounting</figcaption>
 </figure>
 
