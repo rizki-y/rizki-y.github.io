@@ -23,7 +23,7 @@ Sebanyak 24 ribu aplikasi milik pemerintah dinilai boros anggaran dan tidak teri
 
 🎯 "Menurut Anda, bagaimana penerapan EA atau Arsitektur SPBE di instansi pemerintah? Sudah efektif, atau masih ada tantangan yang perlu diatasi?"
 
-<figure class="third">
+<figure>
 	<img src="https://rizki-y.github.io/assets/images/2025-02-01-enterprise-architecture/ea.jpg">
 </figure>
 
