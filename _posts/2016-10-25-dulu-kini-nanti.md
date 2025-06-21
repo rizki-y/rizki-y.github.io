@@ -9,6 +9,6 @@ tags:
 
 
 <figure>
-	<img src="https://rizki-y.github.io/assets/images/2016-10-25-dulu-kini-nanti/dkn.jpg">
+	<img src="https://rizki-y.github.io/assets/images/2016-10-25-dulu-kini-nanti/dkn.png">
 </figure>
 
