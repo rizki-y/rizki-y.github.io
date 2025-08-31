@@ -1,5 +1,5 @@
 ---
-title: "50+ Pengguna Mengunduh Luwid Laundry"
+title: "100+ Pengguna Mengunduh Luwid Laundry"
 categories:
   - Luwid Laundry
 tags:
