@@ -7,7 +7,7 @@ tags:
   - solusi manajemen laundry
 ---
 
-Alhamdulillah Luwid Laundry telah diunduh 50+ kali di Google Play. Semoga terus bermanfaat bagi pelaku usaha laundry.
+Alhamdulillah Luwid Laundry telah diunduh 100+ kali di Google Play. Semoga terus bermanfaat bagi pelaku usaha laundry.
 
 Terima kasih atas kepercayaan dan dukungannya 🙏.
 
