@@ -4,7 +4,7 @@ categories:
   - Sufi
 tags:
   - Jalaluddin Rumi
-  - Spiritual
+  - Matsnawi
 ---
 
 > ### **_"Sembunyikan rahasiamu dalam keheningan, biarkan benih itu tumbuh di dalam tanah yang gelap, sebelum akhirnya menjadi pohon yang memberi buah tanpa meminta nama."_**

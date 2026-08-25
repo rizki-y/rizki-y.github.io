@@ -4,7 +4,7 @@ categories:
   - Sufi
 tags:
   - Jalaluddin Rumi
-  - Spiritual
+  - Matsnawi
 ---
 
 > ### **_"Damai adalah milik ia yang tak risau dengan lebih atau kurang. Terbebas dari nama dan ketenaran, ia merdeka dari duka dunia dan dari dirinya sendiri."_**

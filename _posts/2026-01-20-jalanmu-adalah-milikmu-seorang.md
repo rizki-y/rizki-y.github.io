@@ -4,7 +4,7 @@ categories:
   - Sufi
 tags:
   - Jalaluddin Rumi
-  - Spiritual
+  - Divan-e Shams-e Tabrizi
 ---
 
 > ### **_"Ini adalah jalanmu, dan milikmu seorang. Orang lain mungkin berjalan bersamamu, tetapi tak seorang pun dapat berjalan menggantikanmu."_**

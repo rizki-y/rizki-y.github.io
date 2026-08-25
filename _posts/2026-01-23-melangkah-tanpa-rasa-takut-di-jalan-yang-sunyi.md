@@ -4,7 +4,7 @@ categories:
   - Sufi
 tags:
   - Jalaluddin Rumi
-  - Spiritual
+  - Matsnawi
 ---
 
 > ### **_"Meskipun jalan ini tak bertepi, melangkahlah dan terus berjalan, jangan menatap kejauhan dengan rasa takut... Di jalan ini, biarkan hati menjadi pemandumu, karena raga ini ragu dan penuh ketakutan."_**
