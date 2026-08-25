@@ -1,5 +1,6 @@
 ---
+title: "Notes by Tag"
 layout: tags
-title: "Tag"
 permalink: /tags/
+author_profile: true
 ---
