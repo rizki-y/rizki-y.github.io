@@ -7,9 +7,8 @@ tags:
   - Spiritual
 ---
 
-"Ini adalah jalanmu, dan milikmu seorang. Orang lain mungkin berjalan bersamamu, tetapi tak seorang pun dapat berjalan menggantikanmu."
-
-— Jalaluddin Rumi (Divan-e Shams-e Tabrizi)
+> ### **_"Ini adalah jalanmu, dan milikmu seorang. Orang lain mungkin berjalan bersamamu, tetapi tak seorang pun dapat berjalan menggantikanmu."_**
+> — **Jalaluddin Rumi** (*Divan-e Shams-e Tabrizi*)
 
 Di dunia yang serba bising ini, segala hal sering kali diukur dari seberapa banyak mata yang melihat dan seberapa deras tepuk tangan yang terdengar. Kita sering terbiasa hidup untuk pengakuan publik. Namun, jika kita menengok pada kebijaksanaan jiwa, ada napas ketenangan yang menuntun kita pada sudut pandang yang jauh berbeda.
 
