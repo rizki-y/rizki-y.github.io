@@ -4,7 +4,6 @@ categories:
   - Musik
 tags:
   - Festival Musik Pelajar
-  - Band Banjarmasin
 ---
 
 Mari sedikit bernostalgia! Foto-foto ini mengabadikan momen penampilan **Orbitz Band** pada tanggal **20 Oktober 2002** di **Taman Budaya Banjarmasin**.

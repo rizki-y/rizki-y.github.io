@@ -5,9 +5,7 @@ categories:
 tags:
   - PostgreSQL
   - Rclone
-  - Backup
   - Google Drive
-  - Cron
 ---
 
 ## 1. Instal rclone di Server dan PC Lokal
